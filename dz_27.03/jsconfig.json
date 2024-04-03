@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-SE38RKL;Database=Fruits_And_Veg;Integrated Security=SSPI;TrustServerCertificate=true"
+  }
+}
